@@ -4,51 +4,69 @@
   "menu": [
     {
       "id": 1,
-      "name": "Coca-Cola",
-      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/coca-cola.svg",
-      "price": 6.99
-    },
-    {
-      "id": 2,
-      "name": "Combo X-burguer e Coca-cola",
+      "name": "Combo X-burguer e Coca-Cola",
       "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/combo.svg",
       "price": 19.99
     },
     {
-      "id": 3,
-      "name": "X-burguer duplo",
-      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/duplo-xburguer.svg",
-      "price": 13.99
-    },
-    {
-      "id": 4,
-      "name": "Ovomaltine",
-      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/ovomaltine.svg",
-      "price": 7.00
-    },
-    {
-      "id": 5,
-      "name": "Sunday",
-      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/sunday.svg",
-      "price": 5.00
-    },
-    {
-      "id": 6,
+      "id": 2,
       "name": "X-burguer",
       "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/xburguer.svg",
       "price": 11.00
     },
     {
-      "id": 7,
+      "id": 3,
       "name": "X-chicken com bacon",
       "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/xchicken.svg",
       "price": 11.00
     },
     {
-      "id": 8,
+      "id": 4,
+      "name": "X-burguer duplo",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/duplo-xburguer.svg",
+      "price": 13.99
+    },
+    {
+      "id": 5,
+      "name": "Ovomaltine",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/ovomaltine.svg",
+      "price": 7.00
+    },
+    {
+      "id": 6,
+      "name": "Sunday",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/sunday.svg",
+      "price": 5.00
+    },
+    {
+      "id": 7,
       "name": "Bolo de chocolate",
-      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/cake-chocolate.jpg",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/cake-chocolate.svg",
       "price": 11.00
+    },
+    {
+      "id": 8,
+      "name": "Bolo de copo",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/cupcakes.svg",
+      "price": 4.00
+    },
+    {
+      "id": 9,
+      "name": "Coca-Cola",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/coca-cola.svg",
+      "price": 6.99
+    },
+    {
+      "id": 10,
+      "name": "Garrafa de Coca-Cola",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/coca-cola-bottle.svg",
+      "price": 8.99
+    },
+    {
+      "id": 11,
+      "name": "Suco de laranja",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/orange-juice.svg",
+      "price": 4.00
     }
   ]
 }
