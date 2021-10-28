@@ -9,8 +9,8 @@ const router = jsonServer.router("db.json");
 app.db = router.db;
 
 const rules = auth.rewriter({
-  users: 666,
-  menu: 666,
+  users: 600,
+  menu: 444,
 });
 
 app.use(cors());
