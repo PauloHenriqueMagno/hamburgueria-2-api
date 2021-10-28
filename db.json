@@ -1,0 +1,54 @@
+{
+  "users": [
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "name": "Coca-Cola",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/coca-cola.svg",
+      "price": 6.99
+    },
+    {
+      "id": 2,
+      "name": "Combo X-burguer e Coca-cola",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/combo.svg",
+      "price": 19.99
+    },
+    {
+      "id": 3,
+      "name": "X-burguer duplo",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/duplo-xburguer.svg",
+      "price": 13.99
+    },
+    {
+      "id": 4,
+      "name": "Ovomaltine",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/ovomaltine.svg",
+      "price": 7.00
+    },
+    {
+      "id": 5,
+      "name": "Sunday",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/sunday.svg",
+      "price": 5.00
+    },
+    {
+      "id": 6,
+      "name": "X-burguer",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/xburguer.svg",
+      "price": 11.00
+    },
+    {
+      "id": 7,
+      "name": "X-chicken com bacon",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/xchicken.svg",
+      "price": 11.00
+    },
+    {
+      "id": 8,
+      "name": "Bolo de chocolate",
+      "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/cake-chocolate.jpg",
+      "price": 11.00
+    }
+  ]
+}
