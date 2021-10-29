@@ -5,66 +5,77 @@
     {
       "id": 1,
       "name": "Combo X-burguer e Coca-Cola",
+      "category": "Combos",
       "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/combo.png",
       "price": 19.99
     },
     {
       "id": 2,
       "name": "X-burguer",
+      "category": "Sanduíches",
       "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/xburguer.png",
       "price": 11.00
     },
     {
       "id": 3,
       "name": "X-chicken com bacon",
+      "category": "Sanduíches",
       "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/xchicken.png",
       "price": 11.00
     },
     {
       "id": 4,
       "name": "X-burguer duplo",
+      "category": "Sanduíches",
       "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/duplo-xburguer.png",
       "price": 13.99
     },
     {
       "id": 5,
       "name": "Ovomaltine",
+      "category": "Sobremesas",
       "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/ovomaltine.png",
       "price": 7.00
     },
     {
       "id": 6,
       "name": "Sunday",
+      "category": "Sobremesas",
       "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/sunday.png",
       "price": 5.00
     },
     {
       "id": 7,
       "name": "Bolo de chocolate",
+      "category": "Sobremesas",
       "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/cake-chocolate.jpg",
       "price": 11.00
     },
     {
       "id": 8,
       "name": "Bolo de copo",
+      "category": "Sobremesas",
       "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/cupcakes.jpg",
       "price": 4.00
     },
     {
       "id": 9,
       "name": "Coca-Cola",
+      "category": "Bebidas",
       "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/coca-cola.png",
       "price": 6.99
     },
     {
       "id": 10,
       "name": "Garrafa de Coca-Cola",
+      "category": "Bebidas",
       "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/coca-cola-bottle.jpg",
       "price": 8.99
     },
     {
       "id": 11,
       "name": "Suco de laranja",
+      "category": "Bebidas",
       "src": "https://raw.githubusercontent.com/PauloHenriqueMagno/images/main/orange-juice.jpg",
       "price": 4.00
     }
