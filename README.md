@@ -4,7 +4,7 @@ Esse é o repositório com a base de JSON-Server + JSON-Server-Auth já configur
 
 ## Endpoints
 
-Assim como a documentação do JSON-Server-Auth traz (https://www.npmjs.com/package/json-server-auth), existem 3 endpoints que podem ser utilizados para cadastro, 2 endpoints que podem ser usados para login, 1 endpoint para editar dados do usuario, 1 endpoint para deletar a conta do usuario e 1 endpoint para visualizar a conta do usuario.
+Assim como a documentação do JSON-Server-Auth traz (https://www.npmjs.com/package/json-server-auth), existem 3 endpoints que podem ser utilizados para cadastro, 2 endpoints que podem ser usados para login, 1 endpoint para editar e mostrar dados do usuario e 1 endpoint para deletar a conta do usuario.
 
 ### Cadastro
 
@@ -22,20 +22,14 @@ POST /signin
 
 Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
 
-### Editar
+### Editar e visualizar
 
-PUT /users/id
+PATCH /users/id
 
-Utilizando essa endpoint ira modificar qualquer dado do usuario e criar qualquer nova propriedade sendo obrigatório o token da conta
+Essa endpoint ira mostra e modificar os dados da sua conta sendo obrigatório o token da conta e a propriedade que ira modificar ou criar
 
 ### Deletar
 
 DELETE /users/id
 
 Essa endpoint ira deleta sua conta sendo obrigatório o token da conta
-
-### Visualizar
-
-PATCH /users/id
-
-Essa endpoint ira mostra os dados da sua conta sendo obrigatório o token da conta
